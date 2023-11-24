@@ -1,0 +1,23 @@
+
+.navbar{
+	line-height: 100px;
+	background-color: green;
+	border: 5px solid black;
+}
+
+.img{
+	height: 100px;
+	width: 150px;
+}
+
+.navbar a{
+	text-decoration: none;
+	margin-left: 200px;
+	color: white;
+	font-size: 20px;
+
+}
+
+.navbar .input{
+	margin-left: 280px;
+}
