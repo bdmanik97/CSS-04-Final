@@ -1,23 +1,40 @@
 
 .navbar{
-	height: 50px;
+	height: 80px;
 	background-color: green;
 	border: 5px solid black;
 }
-
-.img{
-	height: 50px;
+.navbar .img{
+	height: 80px;
 	width: 150px;
+	display: inline;
 }
-
 .navbar a{
-	text-decoration: none;
+	text-decoration:none;
 	color: white;
 	font-size: 20px;
-	margin: 0px 0px 300px 200px;
-
+	margin: 0px 0px 100px 200px;
+	display: inline;
+	padding-bottom: 100px;
 }
-
 .navbar .input{
 	margin-left: 280px;
 }
+.navbar2{
+	height: 500px;
+	background-color: skyblue;
+	border: 5px solid black;
+}
+.navbar3{
+	height: 70px;
+	background-color: yellow;
+	border: 5px solid black;
+}
+.navbar3 a{
+	text-align: center;
+	padding-bottom: 20px;
+}
+/*.p2{
+	text-align: left;
+	padding-bottom: 500px;
+}*/
